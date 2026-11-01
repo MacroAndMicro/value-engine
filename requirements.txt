@@ -1,0 +1,14 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.1
+numpy>=1.26
+yfinance>=0.2.40
+rich>=13.7
+pytest>=8.0
+anthropic>=2.3
+pypdf>=6.0
+fonttools>=4.50
+openai>=3.0          # OpenAI, DeepSeek and other OpenAI-compatible APIs
+google-genai>=2.0    # Google Gemini
+streamlit>=1.66.1

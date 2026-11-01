@@ -1,0 +1,8 @@
+# One NSE (.NS) or BSE (.BO) ticker per line. Lines starting with # are ignored.
+TCS.NS
+INFY.NS
+RELIANCE.NS
+HDFCBANK.NS
+BAJFINANCE.NS
+ASIANPAINT.NS
+ITC.NS
